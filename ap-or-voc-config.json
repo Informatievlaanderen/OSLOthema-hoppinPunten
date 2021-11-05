@@ -11,7 +11,7 @@
         {
         "naam": "AP Hoppinpunten",
         "waarde": ""
-        },
+        }
     ],
     "documentatie": [],
     "charter": [
@@ -22,14 +22,14 @@
     ],
     "verslagen": [
         {
-        "naam": "Verslag business werkgroep - 26 oktober 2021"
-        "waarde": "26102021_OSLO Hoppinpunten_Business Werkgroep_Verslag.pdf"
+            "naam": "Verslag business werkgroep - 26 oktober 2021",
+            "waarde": "26102021_OSLO Hoppinpunten_Business Werkgroep_Verslag.pdf"
         }
     ],
     "presentaties": [
         {
-        "naam": "Presentatie business werkgroep - 26 oktober 2021"
-        "waarde": "26102021_OSLO Hoppinpunten_Business Werkgroep_Presentatie.pdf"
+            "naam": "Presentatie business werkgroep - 26 oktober 2021",
+            "waarde": "26102021_OSLO Hoppinpunten_Business Werkgroep_Presentatie.pdf"
         }
     ],
     "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Hoppinpunten",
