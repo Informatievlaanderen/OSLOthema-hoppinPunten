@@ -1,2 +1,1 @@
-Provide a description for this standardization trajectory. 
-This text will be shown on the OSLO standards registry.
+Het doel van dit traject is om de structuur van data omtrent Hoppinpunten te standaardiseren in samenspraak met alle belanghebbenden. Om zo datastromen semantisch te verrijken, om hoppinpunten beter vindbaar en begrijpbaar te maken en om deze data beter combineerbaar te maken met andere databronnen. Op basis van internationale standaarden bouwen we het vocabularium op. We brengen dit in lijn met de geldende Vlaamse regelgeving.
