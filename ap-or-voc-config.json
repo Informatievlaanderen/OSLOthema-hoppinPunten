@@ -9,8 +9,12 @@
     "beschrijving" : "hoppinpunten.md",
     "specificatiedocument": [
         {
-        "naam": "AP Hoppinpunten",
-        "waarde": ""
+        "naam": "Applicatieprofiel Hoppinpunten",
+        "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/Hoppinpunten"
+        },
+        {
+        "naam": "Vocabularium Hoppinpunten",
+        "waarde": "https://data.vlaanderen.be/ns/hoppinpunten"
         }
     ],
     "documentatie": [],
