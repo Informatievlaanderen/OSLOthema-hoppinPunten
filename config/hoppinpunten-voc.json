@@ -2,7 +2,7 @@
 {
   "name": "Hoppinpunten-voc",
   "type": "voc",
-  "eap": "Hoppinpunten.eap",
+  "eap": "OSLO-Hoppinpunten.eap",
   "diagram": "OSLO-Hoppinpunten",
   "template": "hoppinpunten-voc.j2",
   "title": "Hoppinpunten",
