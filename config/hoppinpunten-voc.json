@@ -1,0 +1,17 @@
+[
+{
+  "name": "Hoppinpunten-voc",
+  "type": "voc",
+  "eap": "Hoppinpunten.eap",
+  "diagram": "OSLO-Hoppinpunten",
+  "template": "hoppinpunten-voc.j2",
+  "title": "Hoppinpunten",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-date": "2022-01-25",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "MijnKolom",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-hoppinPunten/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
+}
+]
