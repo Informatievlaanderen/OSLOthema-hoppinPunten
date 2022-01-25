@@ -2,7 +2,7 @@
 {
   "name": "OSLO-Hoppinpunten-ap",
   "type": "ap",
-  "eap": "OSLO-Hoppinpunten-AP.eap",
+  "eap": "OSLO-Hoppinpunten.eap",
   "diagram": "OSLO-Hoppinpunten",
   "template": "hoppinpunten-ap.j2",
   "title": "Hoppinpunten",
