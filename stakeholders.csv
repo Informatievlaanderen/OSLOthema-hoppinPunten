@@ -2,26 +2,26 @@ Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
 AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
 EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
 MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
-Arne;Scheldeman;Digitaal Vlaanderen;arne.scheldeman@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Jesse;Vanhaeren;Digitaal Vlaanderen;jesse.vanhaeren@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Pieter;Colpaert;imec - UGent;pieter.colpaert@imec.be;http://idlab.technology/;A
-Stijn;Vernaillen;Stad Antwerpen;stijn.vernaillen@antwerpen.be;https://www.antwerpen.be/;C
-Peter;Van der Perre;ITS.be;pv@its.be;http://www.its.be;C
-Geert;Thijs;Digitaal Vlaanderen;geert.thijs@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Bert;Van Nuffelen;Digitaal Vlaanderen;bert.vannuffelen@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Laurens;Vercauteren;Digitaal Vlaanderen;laurens.vercauteren@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Pieter;Deschamps;Mobipunt VZW;pieter.deschamps@mobipunt.be;https://mobipunt.be;C
-Simon;Claus;Digitaal Vlaanderen;simon.claus@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;C
-Adriaan;Walpot;Digitaal Vlaanderen;adriaan.walpot@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;C
-Frederik;Schodts;Digitaal Vlaanderen;frederik.schodts@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A
-Joshua;De Clercq;DMOW;joshua.delercq@mow.vlaanderen.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/departement-mobiliteit-en-openbare-werken;C
-Annelies;De Craene;Digitaal Vlaanderen;annelies.decraene@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A
-Davy;Vanhoudt;DMOW;davy.vanhoudt@mow.vlaanderen.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/departement-mobiliteit-en-openbare-werken;C
-Veerle;Beyaert;Digitaal Vlaanderen;veerle.beyaert@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A
-Els;Maesen;DMOW;els.maesen@mow.vlaanderen.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/departement-mobiliteit-en-openbare-werken;C
-Paul;Theyskens;DMOW;paul.theyskens@mow.vlaanderen.be;
-Raf;Buyle;Digitaal Vlaanderen;raf.buyle@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A
-Bram;Roelant;Mobipunt VZW;bram.roelant@mobipunt.be;https://mobipunt.be;C
-Bart;Baeyens;DMOW;bart.baeyens@mow.vlaanderen.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/departement-mobiliteit-en-openbare-werken;C
-Michael;Mampaey;Digitaal Vlaanderen;michael.mampaey@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Joeri;Moreno;Digitaal Vlaanderen;joeri.moreno@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Arne;Scheldeman;Digitaal Vlaanderen;arne.scheldeman@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
+Jesse;Vanhaeren;Digitaal Vlaanderen;jesse.vanhaeren@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
+Pieter;Colpaert;imec - UGent;pieter.colpaert@imec.be;http://idlab.technology/;A;
+Stijn;Vernaillen;Stad Antwerpen;stijn.vernaillen@antwerpen.be;https://www.antwerpen.be/;C;
+Peter;Van der Perre;ITS.be;pv@its.be;http://www.its.be;C;
+Geert;Thijs;Digitaal Vlaanderen;geert.thijs@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
+Bert;Van Nuffelen;Digitaal Vlaanderen;bert.vannuffelen@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
+Laurens;Vercauteren;Digitaal Vlaanderen;laurens.vercauteren@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
+Pieter;Deschamps;Mobipunt VZW;pieter.deschamps@mobipunt.be;https://mobipunt.be;C;
+Simon;Claus;Digitaal Vlaanderen;simon.claus@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;C;
+Adriaan;Walpot;Digitaal Vlaanderen;adriaan.walpot@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;C;
+Frederik;Schodts;Digitaal Vlaanderen;frederik.schodts@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A;
+Joshua;De Clercq;DMOW;joshua.delercq@mow.vlaanderen.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/departement-mobiliteit-en-openbare-werken;C;
+Annelies;De Craene;Digitaal Vlaanderen;annelies.decraene@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A;
+Davy;Vanhoudt;DMOW;davy.vanhoudt@mow.vlaanderen.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/departement-mobiliteit-en-openbare-werken;C;
+Veerle;Beyaert;Digitaal Vlaanderen;veerle.beyaert@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A;
+Els;Maesen;DMOW;els.maesen@mow.vlaanderen.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/departement-mobiliteit-en-openbare-werken;C;
+Paul;Theyskens;DMOW;paul.theyskens@mow.vlaanderen.be;A;
+Raf;Buyle;Digitaal Vlaanderen;raf.buyle@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A;
+Bram;Roelant;Mobipunt VZW;bram.roelant@mobipunt.be;https://mobipunt.be;C;
+Bart;Baeyens;DMOW;bart.baeyens@mow.vlaanderen.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/departement-mobiliteit-en-openbare-werken;C;
+Michael;Mampaey;Digitaal Vlaanderen;michael.mampaey@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
+Joeri;Moreno;Digitaal Vlaanderen;joeri.moreno@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
