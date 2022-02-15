@@ -1,7 +1,7 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
 Arne;Scheldeman;Digitaal Vlaanderen;arne.scheldeman@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
 Jesse;Vanhaeren;Digitaal Vlaanderen;jesse.vanhaeren@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
-Pieter;Colpaert;imec - UGent;pieter.colpaert@imec.be;http://idlab.technology/;A;
+Pieter;Colpaert;Imec - UGent;pieter.colpaert@imec.be;http://idlab.technology/;A;
 Stijn;Vernaillen;Stad Antwerpen;stijn.vernaillen@antwerpen.be;https://www.antwerpen.be/;C;
 Peter;Van der Perre;ITS.be;pv@its.be;http://www.its.be;C;
 Geert;Thijs;Digitaal Vlaanderen;geert.thijs@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
@@ -22,6 +22,8 @@ Bram;Roelant;Mobipunt VZW;bram.roelant@mobipunt.be;https://mobipunt.be;C;
 Bart;Baeyens;DMOW;bart.baeyens@mow.vlaanderen.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/departement-mobiliteit-en-openbare-werken;C;
 Michael;Mampaey;Digitaal Vlaanderen;michael.mampaey@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
 Joeri;Moreno;Digitaal Vlaanderen;joeri.moreno@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
-Nico;Celen;De Lijn;C;
-Eddy;Gielis;De LijnC;
+Nico;Celen;De Lijn;nico.celen@delijn.be;https://www.delijn.be/nl/;C;
+Eddy;Gielis;De Lijn;eddy.gielis@delijn.be;https://www.delijn.be/nl/;C;
+Els;Wuyts;De Lijn;els.wuyts@delijn.be;https://www.delijn.be/nl/;C;
 Anneleen;De Smedt;DMOW;anneleen.desmedt@mow.vlaanderen.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/departement-mobiliteit-en-openbare-werken;C;
+Bart;Matthys;Imec - UGent;bart.matthys@imec.be;http://idlab.technology/;C
