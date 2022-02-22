@@ -1,5 +1,36 @@
 {% extends "ap2.j2" %}
 
 {% block summary %}
-<p>TBD</p>
+<p>
+Het applicatieprofiel OSLO-Hoppinpunten toont hoe termen uit het overeenstemmend <a href="https://data.vlaanderen.be/ns/vervoersknooppunten">vocabularium</a> gebruikt moeten worden om gegevens uit te wisselen over vervoersknooppunten.
+</p>
+
+<p>
+Met deze gegevens kunnen mobiliteitsvraag en -aanbod beter op elkaar afgestemd worden. Het uiteindelijk doel is het realiseren van een verhoogde basisbereikbaarheid.
+</p>
+
+<p>
+Het model bestaat uit twee delen. Het eerste deel beschrijft een vervoersknooppunt en de daarbij horende elementen. Het tweede deel beschrijft de reis en de daaraan gerelateerde route, gelijkaardig aan OSLO-Mobiliteit: Trips en Aanbod. In deze samenvatting zullen we dieper inzoomen op het eerste deel.
+</p>
+
+<p>
+De entiteit Vervoersknooppunt beschrijft de plaats waar passagiers en/of vracht wordt uitgewisseld tussen voertuigen en/of vervoersmodi. De vervoersknooppunten worden opgebouwd uit drie aspecten: 1) Infrastructuurelementen 2) Transportnetwerk met zijn Transportobjecten en 3) de Mobiliteitsdiensten die aangeboden worden aan het vervoersknooppunt.
+</p>
+
+<p>
+De Infrastructuurelementen geven de fysieke objecten weer die de Mobiliteitsdiensten mogelijk maken aan het Vervoersknooppunt. In het bijzonder worden de Hoppinpunt specifieke en noodzakelijke objecten benadrukt (zoals de Hoppinzuil), daarnaast worden infrastructuurelementen weergegeven zoals stopplaatsen, parkeerplaatsen, fietsenstallingen, laders, etc. die noodzakelijk zijn voor de aangeboden Mobiliteitsdiensten. We maakten hierbij gebruik van OSLO Openbaar Domein - Infrastructuurelementen; OSLO Mobiliteit - Dienstregeling en Planning: Stopplaatsen; het Open Mobility Vocabulary <a href="https://www.mobivoc.org/">MobiVoc</a>.
+</p>
+
+<p>
+Het Transportnetwerk bestaat uit verschillende Transportobjecten. In het bijzonder beschrijven we Transportconnecties, Transportknopen (zoals haltes, stations etc.) en VirtueleKnopen (zoals adhoc geplaatste deelsteps). We maakten hierbij gebruik van het vocabularium <a href="https://data.vlaanderen.be/ns/transportnetwerk">OSLO-Transportnetwerk</a>.
+</p>
+
+<p>
+De Mobiliteitsdienst, ten slotte, neemt een centrale rol op in het model en beschrijft welke mobiliteitsdiensten aangeboden worden op het vervoersknooppunt. Dat kunnen lijndiensten of deelsteps zijn, maar evengoed parkeerplaatsen of fietspompen. Een Mobiliteitsdienst kan andere Mobiliteitsdiensten omvatten, bv. in het geval van de Hoppincentrale die verschillende diensten integreert tot één dienst, maar ook bij een Aanbieder die zijn diensten beschrijft op verschillende granulariteitsniveaus (bv. op een hoog niveau, de dienst "deelmobiliteit in Vlaanderen" en op een lager niveau, de diensten "deelauto's in Antwerpen" en "deelfietsen in Gent"). We maakten hierbij gebruik van het vocabularium <a href="https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod">OSLO-Mobiliteit: Trips en Aanbod</a> 
+</p>
+
+<p>
+Enumeraties worden in principe buiten het applicatieprofiel beschreven, de in het diagram weergegeven enumeratiewaarden zijn dus illustratief.
+</p>
+
 {% endblock %}
