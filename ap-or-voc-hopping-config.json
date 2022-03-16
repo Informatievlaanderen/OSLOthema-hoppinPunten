@@ -17,19 +17,20 @@
         "waarde": "https://data.vlaanderen.be/ns/hoppinpunten"
         }
     ],
-    "documentatie": [],
-    "charter": [
-        {
-        "naam": "Charter",
-        "waarde": "OSLO Hoppinpunten_Charter.pdf"
-        },
-        {
+    "documentatie": [
+    {
             "naam": "Modificatie Hoppinpuntenmodel - 10 maart 2022",
             "waarde": "10032022_OSLO Hoppinpunten_Modificatie model"
         },
         {
             "naam": "Mapping Vervoersknooppuntendatabank"
             "waarde": "Mapping Vervoersknooppuntendatabank"
+        }
+    ],
+    "charter": [
+        {
+        "naam": "Charter",
+        "waarde": "OSLO Hoppinpunten_Charter.pdf"
         }        
     ],
     "verslagen": [
