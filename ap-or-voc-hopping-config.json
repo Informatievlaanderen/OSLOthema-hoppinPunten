@@ -22,7 +22,15 @@
         {
         "naam": "Charter",
         "waarde": "OSLO Hoppinpunten_Charter.pdf"
-        }
+        },
+        {
+            "naam": "Modificatie Hoppinpuntenmodel - 10 maart 2022",
+            "waarde": "10032022_OSLO Hoppinpunten_Modificatie model"
+        },
+        {
+            "naam": "Mapping Vervoersknooppuntendatabank"
+            "waarde": "Mapping Vervoersknooppuntendatabank"
+        }        
     ],
     "verslagen": [
         {
@@ -44,10 +52,6 @@
         {
             "naam": "Verslag thematische werkgroep 4 - 15 februari 2022",
             "waarde": "15022022_OSLO Hoppinpunten_Thematische Werkgroep 4_Verslag.pdf"
-        },
-        {
-            "naam": "Verslag modificatie Hoppinpuntenmodel - 10 maart 2022",
-            "waarde": "10032022_OSLO Hoppinpunten_Modificatie model_Verslag"
         }
     ],
     "presentaties": [
