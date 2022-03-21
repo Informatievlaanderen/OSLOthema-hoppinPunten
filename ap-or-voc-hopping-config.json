@@ -10,11 +10,11 @@
     "specificatiedocument": [
         {
         "naam": "Applicatieprofiel Hoppinpunten",
-        "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/Hoppinpunten"
+        "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit/Hoppinpunten"
         },
         {
         "naam": "Vocabularium Hoppinpunten",
-        "waarde": "https://data.vlaanderen.be/ns/hoppinpunten"
+        "waarde": "https://data.vlaanderen.be/ns/mobiliteit/vervoersknooppunten"
         }
     ],
     "documentatie": [
