@@ -1,26 +1,26 @@
 {
-    "naam": "Vocabularia en Applicatieprofielen Hoppinpunten",
+    "naam": "Vocabularia en Applicatieprofielen Vervoersknooppunten",
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
     "publicatiedatum": "TBD",
     "type_toepassing": "TBD",
     "categorie": "Vocabularium & applicatieprofielen",
-    "beschrijving" : "hoppinpunten.md",
+    "beschrijving" : "vervoersknooppunten.md",
     "specificatiedocument": [
         {
-        "naam": "Applicatieprofiel Hoppinpunten",
+        "naam": "Applicatieprofiel Vervoersknooppunten",
         "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit/Hoppinpunten"
         },
         {
-        "naam": "Vocabularium Hoppinpunten",
+        "naam": "Vocabularium Vervoersknooppunten",
         "waarde": "https://data.vlaanderen.be/ns/mobiliteit/vervoersknooppunten"
         }
     ],
     "documentatie": [
     {
-            "naam": "Modificatie Hoppinpuntenmodel - 10 maart 2022",
-            "waarde": "10032022_OSLO Hoppinpunten_Modificatie model_Verslag.pdf"
+            "naam": "Modificatie Vervoersknooppunten - 10 maart 2022",
+            "waarde": "10032022_OSLO Vervoersknooppunten_Modificatie model_Verslag.pdf"
         },
         {
             "naam": "Mapping Vervoersknooppuntendatabank",
@@ -30,51 +30,51 @@
     "charter": [
         {
         "naam": "Charter",
-        "waarde": "OSLO Hoppinpunten_Charter.pdf"
+        "waarde": "OSLO Vervoersknooppunten_Charter.pdf"
         }
     ],
     "verslagen": [
         {
             "naam": "Verslag business werkgroep - 26 oktober 2021",
-            "waarde": "26102021_OSLO Hoppinpunten_Business Werkgroep_Verslag.pdf"
+            "waarde": "26102021_OSLO Vervoersknooppunten_Business Werkgroep_Verslag.pdf"
         },
         {
             "naam": "Verslag thematische werkgroep 1 - 23 november 2021",
-            "waarde": "23112021_OSLO Hoppinpunten_Thematische Werkgroep 1_Verslag.pdf"
+            "waarde": "23112021_OSLO Vervoersknooppunten_Thematische Werkgroep 1_Verslag.pdf"
         },
         {
             "naam": "Verslag thematische werkgroep 2 - 21 december 2021",
-            "waarde": "21122021_OSLO Hoppinpunten_Thematische Werkgroep 2_Verslag.pdf"
+            "waarde": "21122021_OSLO Vervoersknooppunten_Thematische Werkgroep 2_Verslag.pdf"
         },
         {
             "naam": "Verslag thematische werkgroep 3 - 18 januari 2022",
-            "waarde": "18012022_OSLO Hoppinpunten_Thematische Werkgroep 3_Verslag.pdf"
+            "waarde": "18012022_OSLO Vervoersknooppunten_Thematische Werkgroep 3_Verslag.pdf"
         },
         {
             "naam": "Verslag thematische werkgroep 4 - 15 februari 2022",
-            "waarde": "15022022_OSLO Hoppinpunten_Thematische Werkgroep 4_Verslag.pdf"
+            "waarde": "15022022_OSLO Vervoersknooppunten_Thematische Werkgroep 4_Verslag.pdf"
         }
     ],
     "presentaties": [
         {
             "naam": "Presentatie business werkgroep - 26 oktober 2021",
-            "waarde": "26102021_OSLO Hoppinpunten_Business Werkgroep_Presentatie.pdf"
+            "waarde": "26102021_OSLO Vervoersknooppunten_Business Werkgroep_Presentatie.pdf"
         },
         {
             "naam": "Presentatie thematische werkgroep 1 - 23 november 2021",
-            "waarde": "23112021_OSLO Hoppinpunten_Thematische Werkgroep 1_Presentatie.pdf"
+            "waarde": "23112021_OSLO Vervoersknooppunten_Thematische Werkgroep 1_Presentatie.pdf"
         },
         {
             "naam": "Presentatie thematische werkgroep 2 - 21 december 2021",
-            "waarde": "21122021_OSLO Hoppinpunten_Thematische Werkgroep 2_Presentatie.pdf"
+            "waarde": "21122021_OSLO Vervoersknooppunten_Thematische Werkgroep 2_Presentatie.pdf"
         },
         {
             "naam": "Presentatie thematische werkgroep 3 - 18 januari 2022",
-            "waarde": "18012022_OSLO Hoppinpunten_Thematische Werkgroep 3_Presentatie.pdf"
+            "waarde": "18012022_OSLO Vervoersknooppunten_Thematische Werkgroep 3_Presentatie.pdf"
         },
         {
             "naam": "Presentatie thematische werkgroep 4 - 15 februari 2022",
-            "waarde": "15022022_OSLO Hoppinpunten_Thematische Werkgroep 4_Presentatie.pdf"
+            "waarde": "15022022_OSLO Vervoersknooppunten_Thematische Werkgroep 4_Presentatie.pdf"
         }
     ],
     "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Hoppinpunten",
