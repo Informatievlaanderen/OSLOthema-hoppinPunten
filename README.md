@@ -1,8 +1,8 @@
-# OSLO Hoppinpunten
+# OSLO Vervoersknooppunten
 
 ## Inleiding
 
-Het doel van dit traject is om de structuur van data omtrent Hoppinpunten te standaardiseren in samenspraak met alle belanghebbenden. Om zo datastromen semantisch te verrijken, om hoppinpunten beter vindbaar en begrijpbaar te maken en om deze data beter combineerbaar te maken met andere databronnen. Op basis van internationale standaarden bouwen we het vocabularium op. We brengen dit in lijn met de geldende Vlaamse regelgeving.
+Het doel van dit traject is om de structuur van data omtrent Vervoersknooppunten te standaardiseren in samenspraak met alle belanghebbenden. Om zo datastromen semantisch te verrijken, om vervoersknooppunten beter vindbaar en begrijpbaar te maken en om deze data beter combineerbaar te maken met andere databronnen. Op basis van internationale standaarden bouwen we het vocabularium op. We brengen dit in lijn met de geldende Vlaamse regelgeving.
 
 ## Verslagen en presentaties
 
