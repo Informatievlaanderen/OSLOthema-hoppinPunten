@@ -1,17 +1,17 @@
 [
 {
-  "name": "OSLO-Hoppinpunten-ap",
+  "name": "OSLO-Vervoersknooppunten-ap",
   "type": "ap",
-  "eap": "OSLO-Hoppinpunten.eap",
-  "diagram": "OSLO-Hoppinpunten",
-  "template": "hoppinpunten-ap.j2",
-  "title": "Hoppinpunten",
+  "eap": "OSLO-Vervoersknooppunten.eap",
+  "diagram": "OSLO-Vervoersknooppunten",
+  "template": "vervoersknooppunten-ap.j2",
+  "title": "Vervoersknooppunten",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
   "publication-date": "2022-03-21",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",
-  "site": "site-skeleton/hoppinpunten-ap",
+  "site": "site-skeleton/vervoersknooppunten-ap",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-hoppinPunten/issues",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kandidaatstandaard/vocabularia-en-applicatieprofielen-hoppinpunten.html"
 }
