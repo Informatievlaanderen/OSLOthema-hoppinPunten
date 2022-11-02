@@ -3,8 +3,8 @@
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "TBD",
-    "type_toepassing": "TBD",
+    "publicatiedatum": "2022-11-10",
+    "type_toepassing": "Aanbevolen (vrijwillig)",
     "categorie": "Vocabularium & applicatieprofielen",
     "beschrijving" : "vervoersknooppunten.md",
     "specificatiedocument": [
@@ -79,7 +79,7 @@
     ],
     "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Hoppinpunten",
     "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
-    "datum_van_aanmelding": "",
-    "erkenning_werkgroep_datastandaarden": "TBD",
-    "erkenning_stuurgroep": "TBD"
+    "datum_van_aanmelding": "2021-09-14",
+    "erkenning_werkgroep_datastandaarden": "2022-11-10",
+    "erkenning_stuurgroep": "2022-11-10"
   }
