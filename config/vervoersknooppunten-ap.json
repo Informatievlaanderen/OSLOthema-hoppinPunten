@@ -6,13 +6,13 @@
   "diagram": "OSLO-Vervoersknooppunten",
   "template": "vervoersknooppunten-ap.j2",
   "title": "Vervoersknooppunten",
-  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
-  "publication-date": "2022-03-21",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
+  "publication-date": "2022-12-01",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",
   "site": "site-skeleton/vervoersknooppunten-ap",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-hoppinPunten/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kandidaatstandaard/vocabularia-en-applicatieprofielen-vervoersknooppunten.html"
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vervoersknooppunten.html"
 }
 ]
