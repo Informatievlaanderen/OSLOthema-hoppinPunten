@@ -1,21 +1,17 @@
 {
-    "naam": "Vocabularia en Applicatieprofielen Vervoersknooppunten",
+    "naam": "Applicatieprofiel Vervoersknooppunten",
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "2022-11-10",
+    "publicatiedatum": "2022-12-01",
     "type_toepassing": "Aanbevolen (vrijwillig)",
-    "categorie": "Vocabularium & applicatieprofielen",
+    "categorie": "Applicatieprofiel",
     "beschrijving" : "vervoersknooppunten.md",
     "specificatiedocument": [
         {
         "naam": "Applicatieprofiel Vervoersknooppunten",
         "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit/vervoersknooppunten"
-        },
-        {
-        "naam": "Vocabularium Vervoersknooppunten",
-        "waarde": "https://data.vlaanderen.be/ns/mobiliteit/vervoersknooppunten"
-        }
+        }        
     ],
     "documentatie": [
     {
@@ -81,5 +77,5 @@
     "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
     "datum_van_aanmelding": "2021-09-14",
     "erkenning_werkgroep_datastandaarden": "2022-11-10",
-    "erkenning_stuurgroep": "2022-11-10"
+    "erkenning_stuurgroep": "2022-12-01"
   }
