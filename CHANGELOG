@@ -6,3 +6,4 @@ YYYY-MM--DD
 2025-01-02
 
 - Added extra semicolon to stakeholders
+- Removed unused Site class from project
