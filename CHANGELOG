@@ -14,3 +14,4 @@
 - Deleted Schema.org package since it was empty after deleting previous classes
 - Deleted Straatmeubilair from package OSLO-Infrastructuurelementen since it wasn't being used anywhere and caused conflicts due to duplicates in labels with context-generator
 - Added package tag (INSPIRE-Netwerk) to Knoop due to duplicates in labels with context-generator
+- Added package tag (INSPIRE-Netwerk) to Netwerk due to duplicates in labels with context-generator
