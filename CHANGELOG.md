@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- Vervoersknooppunten AP: Apply PascalCase and CamelCase
+- Vervoersknooppunten AP: Replace http://schema.org with https://schema.org
+- Vervoersknooppunten AP: Replace abbreviations
+- Vervoersknooppunten AP: Capitalise sentences
+
 ## 2025-01-02
 
 - Added extra semicolon to stakeholders
