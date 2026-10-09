@@ -1,6 +1,6 @@
 [
   {
-    "name": "Vervoersknooppunten",
+    "name": "vervoersknooppunten",
     "type": "ap",
     "eap": "OSLO-Vervoersknooppunten.eap",
     "diagram": "OSLO-Vervoersknooppunten",
