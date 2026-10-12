@@ -7,10 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Changed
 - Vervoersknooppunten AP: Apply PascalCase and CamelCase
 - Vervoersknooppunten AP: Replace http://schema.org with https://schema.org
 - Vervoersknooppunten AP: Replace abbreviations
 - Vervoersknooppunten AP: Capitalise sentences
+
+### Added
+- Vervoersknooppunten AP: Add definition for Enum "Toegankelijkheidstype"
 
 ## 2025-01-02
 
