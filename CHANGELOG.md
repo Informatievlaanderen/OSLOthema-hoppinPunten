@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Vervoersknooppunten AP: Add definition for Enum "Toegankelijkheidstype"
 - Vervoersknooppunten AP: Add label and definition for Enum "Hoppinpunttype"
-- Vervoersknooppunten VOC: Add definition Datatype "Pseudoniem"
+- Vervoersknooppunten VOC: Add label and definition Datatype "Pseudoniem"
 
 ## 2025-01-02
 
